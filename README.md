@@ -1,2 +1,3 @@
-# superai-th-competitions
-Store ipynb or any component attending in SuperAI Kaggle Competitions
+# Superai-th-competitions Code Storage
+Participating rather than winning :joy_cat:
+
